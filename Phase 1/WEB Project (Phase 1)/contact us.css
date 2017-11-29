@@ -1,0 +1,89 @@
+#box2{
+	     height: 68px;
+    width: 100px;
+    background: white;
+    color: black;
+    margin-top: -980px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 51px;}
+#box{
+	        height: 1000px;
+    width: 1235px;
+    background: red;
+}
+#box3{
+	    height: 50px;
+    width: 30px;
+    background: red;
+    margin-left: 475px;
+    padding-left: 394px;
+    margin-top: -63px;
+}
+	#box4{
+		       height: 50px;
+    width: 205px;
+    background: red;
+    color: black;
+    font-size: 26px;
+    margin-top: -53px;
+    margin-left: 695px;
+		
+	}
+	#header{
+		         height: 100px;
+    width: 999px;
+    background: gray;
+    margin-top: 53px;
+    padding-left: 227px;
+	}
+	#contact{
+		    height: 43px;
+    width: 88px;
+    background: red;
+    color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+	}
+	#headerin{
+		height: 50px;
+    width: 199px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+	margin-top:37px;
+	}
+	#footer{
+		   height: 100px;
+    width: 1000px;
+    background: gray;
+    color: black;
+    padding-left: 225px;
+    font-size: 19px;
+    margin-top: 333px;
+	}
+	#footerin{
+		height: 100px;
+    width: 1000px;
+    background: orange;
+    color: black;
+		
+	}
+	#sms{
+		height:20px;
+		width:20px;
+		background:white;
+		color:black;
+		
+	}
+	#lpc{
+		    height: 163px;
+    width: 238px;
+    background: red;
+    color: beige;
+    padding-left: 18px;
+    margin-left: 533px;
+    margin-top: -110px;
+	}
+		

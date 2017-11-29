@@ -1,0 +1,149 @@
+#box2{
+	     height: 68px;
+    width: 100px;
+    background: white;
+    color: black;
+    margin-top: -980px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 51px;}
+#box{
+	    height: 1000px;
+    width: 1259px;
+    background: red;
+}
+#box3{
+	    height: 50px;
+    width: 30px;
+    background: red;
+    margin-left: 791px;
+    padding-left: 394px;
+    margin-top: -63px;
+}
+	#box4{
+		        height: 50px;
+    width: 205px;
+    background: red;
+    color: black;
+    font-size: 26px;
+    margin-left: 995px;
+    margin-top: -74px;
+		
+	}
+	#header{
+		        height: 100px;
+    width: 1259px;
+    margin-top: 71px;
+    background: gray;
+		
+	}
+	#headerin{
+	    height: 50px;
+    width: 199px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+    margin-top: 37px;
+    padding-left: 52px;
+	}
+	#footer{
+	   height: 100px;
+    width: 775px;
+    background: gray;
+    color: black;
+    padding-left: 234px;
+    font-size: 19px;
+    margin-top: 313px;
+    padding-right: 250px;
+	}
+	
+	#footerin{
+		height: 100px;
+    width: 1000px;
+    background: gray;
+    color: black;
+    padding-left: 225px;
+    font-size: 19px;
+    margin-top: 656px;
+		
+	}
+	#boxs{
+		height: 100px;
+    width: 193px;
+    background: red;
+    color: black;
+    margin-top: 10px;
+		
+	}
+	#dx{
+		height: 100px;
+    width: 341px;
+    background: red;
+    color: black;
+    margin-top: -27px;
+    font-size: 24px;
+    margin-left: 66px;
+		
+	}
+	
+	#dx1{
+		    height: 152px;
+    width: 233px;
+    background: red;
+    color: black;
+    margin-top: -23px;
+    font-size: 24px;
+    margin-left: 348px;
+		
+	}
+	
+	#head{
+		height: 100px;
+    width: 193px;
+    background: white;
+    color: black;
+    font-size: 31px;	
+	}
+	#zzz{
+		    height: 151px;
+    width: 171px;
+    background: yellow;
+    color: black;
+    margin-left: 25px;
+    margin-top: -151px;
+}
+#xxx{ height: 151px;
+    width: 258px;
+    background: yellow;
+    color: black;
+    margin-left: 781px;
+    margin-top: -151px;
+	
+}
+#fff{
+	height: 151px;
+    width: 258px;
+    background: yellow;
+    color: black;
+    margin-left: 781px;
+    margin-top: 76px;
+}
+#ccc{
+	    height: 151px;
+    width: 258px;
+    background: yellow;
+    color: black;
+    margin-left: 390px;
+    margin-top: -151px;
+}
+#ddd{
+	
+    height: 151px;
+    width: 258px;
+    background: yellow;
+    color: black;
+    margin-left: 27px;
+    margin-top: -153px;
+
+}

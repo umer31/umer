@@ -1,0 +1,105 @@
+#box2{
+	     height: 68px;
+    width: 100px;
+    background: white;
+    color: black;
+    margin-top: -980px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 51px;}
+#box{
+	      height: 1000px;
+    width: 1235px;
+    background: red;
+}
+#box3{
+	    height: 50px;
+    width: 30px;
+    background: red;
+    margin-left: 475px;
+    padding-left: 394px;
+    margin-top: -63px;
+}
+	#box4{
+		       height: 50px;
+    width: 205px;
+    background: red;
+    color: black;
+    font-size: 26px;
+    margin-top: -53px;
+    margin-left: 695px;
+		
+	}
+	#header{
+		            height: 100px;
+    width: 1233px;
+    margin-top: 49px;
+    background: gray;
+		
+	}
+	#headerin{
+		height: 50px;
+    width: 199px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+	margin-top:37px;
+	}
+	#footer{
+	    height: 100px;
+    width: 1000px;
+    background: gray;
+    color: black;
+    padding-left: 225px;
+    font-size: 19px;
+    margin-top: 575px;
+	}
+	
+	#footerin{
+		height: 100px;
+    width: 1000px;
+    background: gray;
+    color: black;
+    padding-left: 225px;
+    font-size: 19px;
+    margin-top: 656px;
+		
+	}
+	#boxs{
+		height: 100px;
+    width: 193px;
+    background: red;
+    color: black;
+    margin-top: 10px;
+		
+	}
+	#dx{
+		height: 100px;
+    width: 341px;
+    background: red;
+    color: black;
+    margin-top: -27px;
+    font-size: 24px;
+    margin-left: 66px;
+		
+	}
+	
+	#dx1{
+		    height: 100px;
+    width: 331px;
+    background: red;
+    color: black;
+    margin-top: -97px;
+    font-size: 24px;
+    margin-left: 517px;
+		
+	}
+	
+	#head{
+		height: 100px;
+    width: 193px;
+    background: white;
+    color: black;
+    font-size: 31px;	
+	}

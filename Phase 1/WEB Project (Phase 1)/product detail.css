@@ -1,0 +1,200 @@
+#box2{
+	     height: 68px;
+    width: 100px;
+    background: white;
+    color: black;
+    margin-top: -980px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 51px;}
+#box{
+	           height: 1000px;
+    width: 1235px;
+    background: red;
+}
+#box3{
+	    height: 50px;
+    width: 30px;
+    background: red;
+    margin-left: 475px;
+    padding-left: 394px;
+    margin-top: -63px;
+}
+	#box4{
+		        height: 50px;
+    width: 205px;
+    background: red;
+    color: black;
+    font-size: 26px;
+    margin-left: 995px;
+    margin-top: -74px;
+		
+	}
+	#header{
+		    height: 100px;
+    width: 1233px;
+    margin-top: 49px;
+    background: gray;
+		
+	}
+	#headerin{
+		height: 50px;
+    width: 199px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+	margin-top:37px;
+	}
+	#slider{
+		    height: 500px;
+    width: 1000px;
+    background: green;
+    text-align: center;
+    font-size: 85px;
+    margin-top: 23px;
+	}
+	#slider2{
+		height: 40px;
+    width: 431px;
+    background: green;
+    margin-left: 320px;
+    margin-top: -341px;
+    font-size: 80px;
+	}
+	#heading{
+		height: 100px;
+    width: 538px;
+    background: red;
+    color: black;
+    margin-top: 320px;
+    padding-left: 23px;
+    font-size: 18px;
+		
+	}
+	#product{
+		height: 20px;
+    width: 125px;
+    background: red;
+    font-size: 18px;
+    padding-left: 24px;
+		
+	}
+	#boxx{
+		
+   height: 183px;
+    width: 248px;
+    background: orange;
+    color: black;
+    text-align: center;
+    margin-left: 39px;
+    margin-top: 22px;
+	}
+	#boxx1{
+	    height: 180px;
+    width: 265px;
+    background: orange;
+    color: black;
+    text-align: center;
+    margin-left: 330px;
+    margin-top: -182px;
+	}
+	#boxx2{
+	    height: 180px;
+    width: 276px;
+    background: orange;
+    color: black;
+    text-align: center;
+    margin-left: 637px;
+    margin-top: -180px;
+	}
+	#boxx3{
+		height: 28px;
+    width: 216px;
+    background: yellow;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    float: right;
+    margin-right: 424px;
+		
+		
+		
+	}
+	#boxx4{
+		height: 28px;
+    width: 216px;
+    background: green;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    float: right;
+    margin-right: -7px;
+    margin-top: -29px;
+		
+	}
+	#boxx5{
+		height:28px;
+		width:211px;
+		background:green;
+		color:black;
+		text-align:center;
+		margin-right:15px;
+	}
+
+	#footer{
+		    height: 100px;
+    width: 1000px;
+    background: gray;
+    color: black;
+    padding-left: 225px;
+    font-size: 19px;
+        margin-top: 676px;
+	}
+	#footerin{
+		height: 100px;
+    width: 1000px;
+    background: orange;
+    color: black;
+		
+	}
+		#box5{
+		height:28px;
+		width:211px;
+		background:purple;
+		color:black;
+		text-align:center;
+		margin-right:15px;
+	}
+	#box6{
+		height:28px;
+		width:211px;
+		background:purple;
+		color:black;
+		text-align:center;
+		margin-right:15px;
+	}
+	#box7{
+		        height: 155;
+    width: 270;
+    background: yellow;
+    color: black;
+    margin-left: 57px;
+    margin-top: -635px;
+}
+	#box8{
+		        height: 155;
+    width: 1000;
+    background: yellow;
+    color: black;
+    margin-left: 57px;
+    margin-top: 112px;
+}
+	#box9{
+		           height: 255;
+    width: 370;
+    background: yellow;
+    color: black;
+    margin-left: 595px;
+    margin-top: -420px;
+}
